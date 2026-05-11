@@ -1,0 +1,3 @@
+适用于 .NET Framework MSBuild 版本 18.5.4+cb4e32d21
+
+  xuanyi.vcxproj -> c:\Vsprogram\xuanyi\x64\Debug\xuanyi.exe

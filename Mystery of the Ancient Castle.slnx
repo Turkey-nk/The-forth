@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="xuanyi/xuanyi.vcxproj" Id="2d1b5ed6-fb7d-46bf-b5f3-e0dcb2ad01d0" />
+</Solution>
